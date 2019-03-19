@@ -6,10 +6,10 @@ url: chiyu-git.github.io
 # resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/chiyu-git
 baseurl: ""
-description: Chiyu Blog | 千悠 仅仅只是为了展示一下笔记 web 前端 javascript
-meta_description: web 前端 javascript 
+description: time is money , simple is the best
+meta_description: Chiyu Blog | 千悠 仅仅只是为了展示一下笔记 web 前端 javascript
 motto: time is money , simple is the best .
-banner: time is money , simple is the best .。
+banner: time is money , simple is the best .
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
